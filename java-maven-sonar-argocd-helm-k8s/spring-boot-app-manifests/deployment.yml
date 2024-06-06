@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: muskan123890/devops_mus:5
+        image: muskan123890/devops_mus:replaceImageTag
         ports:
         - containerPort: 8080
